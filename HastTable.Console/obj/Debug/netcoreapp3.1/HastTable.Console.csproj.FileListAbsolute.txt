@@ -1,0 +1,16 @@
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/HastTable.Console.deps.json
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/HastTable.Console.runtimeconfig.json
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/HastTable.Console.runtimeconfig.dev.json
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/HastTable.Console.dll
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/HastTable.Console.pdb
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/Microsoft.Toolkit.HighPerformance.dll
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.csprojAssemblyReference.cache
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.csproj.CoreCompileInputs.cache
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.AssemblyInfoInputs.cache
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.AssemblyInfo.cs
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.csproj.CopyComplete
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.dll
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.pdb
+/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/obj/Debug/netcoreapp3.1/HastTable.Console.genruntimeconfig.cache

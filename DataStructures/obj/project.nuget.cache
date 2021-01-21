@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLJchRHzDaYFKfeuTRh2XWwlkyXHRy8ngXIP4GeQw95MwlBd3UWTIH47zOR5CcTAvUOo99q/YHFF+PusECajMw==",
+  "success": true,
+  "projectFilePath": "/Users/emmp11/RiderProjects/DataStructures/DataStructures/DataStructures.csproj",
+  "expectedPackageFiles": [
+    "/Users/emmp11/.nuget/packages/microsoft.toolkit.highperformance/6.1.1/microsoft.toolkit.highperformance.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

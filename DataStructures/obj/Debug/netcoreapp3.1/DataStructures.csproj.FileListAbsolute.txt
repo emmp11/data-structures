@@ -1,0 +1,9 @@
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.deps.json
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.dll
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/bin/Debug/netcoreapp3.1/DataStructures.pdb
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csprojAssemblyReference.cache
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.csproj.CoreCompileInputs.cache
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfoInputs.cache
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.AssemblyInfo.cs
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.dll
+/Users/emmp11/RiderProjects/DataStructures/DataStructures/obj/Debug/netcoreapp3.1/DataStructures.pdb

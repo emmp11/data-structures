@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{4D086A4A-909C-4D2B-BC90-62EA169B8258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastTable.Console", "HastTable.Console\HastTable.Console.csproj", "{BC35ACE0-B544-4242-9872-C80A7ED8501A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D086A4A-909C-4D2B-BC90-62EA169B8258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D086A4A-909C-4D2B-BC90-62EA169B8258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D086A4A-909C-4D2B-BC90-62EA169B8258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D086A4A-909C-4D2B-BC90-62EA169B8258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC35ACE0-B544-4242-9872-C80A7ED8501A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC35ACE0-B544-4242-9872-C80A7ED8501A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC35ACE0-B544-4242-9872-C80A7ED8501A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC35ACE0-B544-4242-9872-C80A7ED8501A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

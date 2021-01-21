@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpNk4wkuhEDQU5l3c5dH8x1HJ3agejoSDyfObFsJ7uBeu+FCfuVUYFIBI1awPmcY59ytq250bqY9VkJplrd90g==",
+  "success": true,
+  "projectFilePath": "/Users/emmp11/RiderProjects/DataStructures/HastTable.Console/HastTable.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/emmp11/.nuget/packages/microsoft.toolkit.highperformance/6.1.1/microsoft.toolkit.highperformance.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
